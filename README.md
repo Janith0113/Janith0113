@@ -39,8 +39,8 @@ Student Name : Gunarathne .J
 </p>
 <p align="center">
   <p align="center">
-      <a href="https://github.com/ImeshR/github-readme-stats"><img alt="Janith's Github status" src="https://github-readme-stats.vercel.app/api?username=Janith0113&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" /></a>
-  <a href="https://github.com/ImeshR/github-readme-stats"><img alt="Janith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janith0113&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&layout=compact" /></a>
+      <a href="https://github.com/Janith0113/github-readme-stats"><img alt="Janith's Github status" src="https://github-readme-stats.vercel.app/api?username=Janith0113&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" /></a>
+  <a href="https://github.com/Janith0113/github-readme-stats"><img alt="Janith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janith0113&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&layout=compact" /></a>
   </p>
 </p>
 

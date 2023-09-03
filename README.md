@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://github.com/Janith0113">
-  <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png?width=400&format=webpll"/>
+  <img src="https://wall.alphacoders.com/big.php?i=1218911"/>
  </a>
 </p>
 

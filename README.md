@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-😉 I'm currently an undergraduate IT student at SLIIT(1st year) <br>
+😉 I'm currently an undergraduate IT student at SLIIT(2st year) <br>
 
 ## 🧑‍💻Currently Working On : 
 

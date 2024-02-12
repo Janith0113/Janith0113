@@ -8,26 +8,15 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-😉 I'm Janith Gunarathne <br> 
-I'm currently an undergraduate IT student at SLIIT(2nd year) <br>
+ I'm Janith Gunarathne 😉 <br> 
+ I'm currently an undergraduate IT student at SLIIT(2nd year) <br>
 
-## 🧑‍💻Currently Working On : 
+# 🧑‍💻Currently Working On : 
 
-• Web application development<br/>
-
-
-## 🌐 Socials:
+ • Web application development<br/>
 
 
-<p align="center">
 
-```
-Academic
-
-Student IT : IT22166760
-Student Name : Gunarathne .J
-```
-</p>
 
 <br>
 

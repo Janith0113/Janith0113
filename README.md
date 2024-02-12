@@ -6,9 +6,10 @@
  </a>
 </p>
 
-## 🙋‍♂️ About Me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-😉 I'm currently an undergraduate IT student at SLIIT(2nd year) <br>
+😉 I'm Janith Gunarathne <br> 
+I'm currently an undergraduate IT student at SLIIT(2nd year) <br>
 
 ## 🧑‍💻Currently Working On : 
 

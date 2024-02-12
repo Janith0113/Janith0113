@@ -1,6 +1,8 @@
 <p align="center">
  <a href="https://github.com/Janith0113">
   <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png?width=400&format=webpll"/>
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
  </a>
 </p>
 

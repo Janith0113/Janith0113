@@ -19,14 +19,20 @@
 
 ## My Statistics
 
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/Janith0113/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Janith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Janith0113&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    </a>
+  </p>
 </p>
-<br>
+<p align="center">
+  <p align="center">
+      <a href="https://github.com/Janith0113/github-readme-stats"><img alt="Janith's Github status" src="https://github-readme-stats.vercel.app/api?username=Janith0113&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" /></a>
+  <a href="https://github.com/Janith0113/github-readme-stats"><img alt="Janith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janith0113&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&layout=compact" /></a>
+  </p>
+</p>
+
 
 <br>
 
@@ -57,20 +63,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
 <br>
-# 📊 GitHub Stats:
-<p align="center">
-  <p align="center">
-    <a href="https://github.com/Janith0113/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Janith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Janith0113&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-    </a>
-  </p>
-</p>
-<p align="center">
-  <p align="center">
-      <a href="https://github.com/Janith0113/github-readme-stats"><img alt="Janith's Github status" src="https://github-readme-stats.vercel.app/api?username=Janith0113&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" /></a>
-  <a href="https://github.com/Janith0113/github-readme-stats"><img alt="Janith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janith0113&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&layout=compact" /></a>
-  </p>
-</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Janith0113&icon=8&color=1)](https://visitcount.itsvg.in)

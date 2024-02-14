@@ -15,7 +15,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 <br>
 <br>
-<br>
+
 
 
  I'm Janith Gunarathne 😉 <br> 
